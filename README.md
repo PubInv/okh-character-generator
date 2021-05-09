@@ -22,9 +22,9 @@ The bottom of the torso should form two lines 1/4" inch long exactly 2" apart, c
 
 The Legs are condsidered to begin at the waist, not the extrem bottom of the torso. The Legs card, however, is drawn  VERTICALLY. At the top, it has 2 lines at least 1/4" inch long exactly 2" apart, centered at the top. The legs do NOT need to extend to the bottom of the card. The art should be crude and cute.
 
+## Examples
 
-
-![Head](https://user-images.githubusercontent.com/5296671/117578642-e525e580-b0b4-11eb-95a6-35ba764c58b1.jpg)
+![Head](https://user-images.githubusercontent.com/5296671/117578924-5ca84480-b0b6-11eb-93c2-dc681b584ece.jpg)
 
 ![Torso](https://user-images.githubusercontent.com/5296671/117578604-b3ad1a00-b0b4-11eb-9aec-fefcd991fd6a.jpg)
 

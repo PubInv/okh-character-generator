@@ -1,3 +1,4 @@
+
 # okh-character-generator
 This is a simple test of the OKH framework.
 
@@ -23,4 +24,9 @@ The Legs are condsidered to begin at the waist, not the extrem bottom of the tor
 
 
 
+![Head](https://user-images.githubusercontent.com/5296671/117578642-e525e580-b0b4-11eb-95a6-35ba764c58b1.jpg)
+
+![Torso](https://user-images.githubusercontent.com/5296671/117578604-b3ad1a00-b0b4-11eb-9aec-fefcd991fd6a.jpg)
+
+![Legs](https://user-images.githubusercontent.com/5296671/117578754-7c8b3880-b0b5-11eb-9944-e7796e16ecd8.jpg)
 

@@ -18,6 +18,9 @@ drawn from the top  of the card downward. The lines should be exactly 1" apart, 
 
 The bottom of the torso should form two lines 1/4" inch long exactly 2" apart, centered at the bottom of the horizontal card. In between the "neck interface" and the "waist interface" you can draw whatever kind of torso you want.
 
+NOTE: When you draw the torso, this should include arms and hands, if the character has them, and these should be drawn on card.
+That is, the characther is not holding its hands above its shoulders or below its waste.
+
 ## The Legs
 
 The Legs are considered to begin at the waist, not the extreme bottom of the torso. The Legs card, however, is drawn  VERTICALLY. At the top, it has 2 lines at least 1/4" inch long exactly 2" apart, centered at the top. The legs do NOT need to extend to the bottom of the card. The art should be crude and cute.
